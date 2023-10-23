@@ -1,0 +1,19 @@
+[{
+    "demandId": "12345",
+    "productId": 1,
+    "count" : 0,
+    "price" : 0.00
+},
+{
+    "demandId": "12345",
+    "productId": 2,
+    "count" : 0,
+    "price" : 0.00
+},
+{
+    "demandId": "12345",
+    "productId": 3,
+    "count" : 0,
+    "price" : 0.00
+}
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "processId": "12345",
+        "payment" : 1,
+        "status": "notStarted",
+        "demands": [{
+            "productId": 1,
+            "count" : 0,
+            "price" : 0.00
+        },
+        {
+            "productId": 2,
+            "count" : 0,
+            "price" : 0.00
+        },
+        {
+            "productId": 3,
+            "count" : 0,
+            "price" : 0.00
+        }
+        ]
+    }
+]
